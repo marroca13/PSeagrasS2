@@ -1,2 +1,2 @@
-# seagrass_PS_S2
-Repository where to have track of the colab developed to detect seagrasses in Conceiçao Lagoon (Brazil)
+# PSeagrasS2
+Repository with all codes available developed for PSeagrasS2 algorithm in Conceiçao Lagoon (Brazil)
