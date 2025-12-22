@@ -1,5 +1,6 @@
 # PSeagrasS2
 ## **Blending PlanetScope and Sentinel-2 imagery for subtidal seagrass change detection in Google Earth Engine**
+**Mar Roca Mora, December 2025**
 
 This code is a result of the research manuscript "Blending PlanetScope and Sentinel-2 imagery to assess subtidal seagrass changes in turbid waters", where you will find:
 1. Sentinel-2 atmospheric correction: L1C to L2A using ACOLITE inside GEE
